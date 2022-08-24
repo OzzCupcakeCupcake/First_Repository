@@ -1,1 +1,1 @@
-#Hola es mi primer commit, soy ozz#
+*hola es mi primer commit, soy ozz*
